@@ -1,2 +1,2 @@
 # py-pass
-Python password generator.
+Python password generator
